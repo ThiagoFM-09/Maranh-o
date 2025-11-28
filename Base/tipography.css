@@ -1,0 +1,19 @@
+h1{
+    font-size: 3rem !important;
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    font-size: 2rem !important;
+}
+header h1{
+    position: relative  ;
+    padding-top: 2%;
+}
+
+.white{
+    color: white;
+}
+a{
+    text-decoration: none;
+}

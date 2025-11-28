@@ -1,0 +1,14 @@
+#foot{
+    display: flex;
+    background-color: rgb(102, 51, 153);
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    padding: 20px 60px;
+}
+footer p{
+    margin-top: 10px;
+}
+footer i{
+    font-size: 2rem;
+}
